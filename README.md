@@ -1,6 +1,6 @@
-# React Template
+# Chie Stroud React Template
 
-**Use this template to get up and running quickly on projects.**
+**This Template comes with NavBar**
 
 This is just like the webpack template. Use it, create the repo, connect it to your local and `npm i`.
 
