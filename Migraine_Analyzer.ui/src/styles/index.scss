@@ -1,0 +1,17 @@
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+@import 'variables';
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono&display=swap');
+
+body {
+  background-color: $favColor;
+}
+
+.app-header{
+  text-align: center;
+  padding: 20px;
+}
+
+.header{
+  font-family: 'Azeret Mono', monospace;
+  font-size: 30px;
+}
